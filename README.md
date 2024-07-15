@@ -13,6 +13,9 @@ alerts and facilitate interventions before a crisis occurs. The effective implem
 a system might greatly improve existing mental health support frameworks, ultimately 
 contributing to a decrease in suicide rates and better public health outcomes . 
 
+Beside conduct the suicide text classification using python libraries , i do use another method 
+to classify the suicide text which is the SAS Enterprise Miner
+
 ![image](https://github.com/user-attachments/assets/811e1084-fe2d-4c05-8577-0c7f00037cb3)
 
 
